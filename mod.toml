@@ -8,7 +8,6 @@ authors = [ "Lorsoen" ]
 game_id = "bk"
 minimum_recomp_version = "1.0.1"
 dependencies = [ "bk_recomp_asset_expansion_pak:0.0.3", "font_plus_latin_1:1.0.0" ]
-conflicts = [ "german" ]
 native_libraries = []
 
 [inputs]
