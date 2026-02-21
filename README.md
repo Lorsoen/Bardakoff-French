@@ -1,4 +1,4 @@
-# Banjo-Kazooie: Bardakoff Banjo
+# Banjo-Kazooie: Bardakoff French
 
 Ce mod implémente le français PAL dans l'édition Recomp du jeu.
 

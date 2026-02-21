@@ -12,3 +12,6 @@ patches.map
 build/
 .vscode/settings.json
 RecompModTool
+dialogsBKP.c
+HEX NOTES.TXT
+icon.xcf
