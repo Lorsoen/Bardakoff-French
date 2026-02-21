@@ -1,6 +1,7 @@
 {
-    "name": "Bardakoff Banjo",
+    "name": "Bardakoff_Banjo",
     "version_number": "1.0.0",
     "description": "Ce mod implémente le français PAL dans l'édition Recomp du jeu.\n\nThis mod brings PAL french in the recomp.",
-    "dependencies": [ "Dario-Asset_Expansion_Pak-0.0.3", "Krisp0o-Font_Plus_Latin1-1.0.0" ]
+    "dependencies": [ "Dario-Asset_Expansion_Pak-0.0.3", "Krisp0o-Font_Plus_Latin1-1.0.0" ],
+    "website_url" : "https://github.com/Lorsoen/Bardakoff-French"
 }
