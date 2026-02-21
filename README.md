@@ -13,10 +13,10 @@ This mod will likely conflict with other language packs.
 ### Problèmes connus / Known Issues
 
 - La grande fonte du jeu n'est pas rendue (prob avec Latin1)
-  Big font does not render (Latin1 issue)
+- Big font does not render (Latin1 issue)
 
 - Les effets de texte ne fonctionnent pas (pareil, Latin1)
-  Textbox commands (such as shake) do not work (Same, Latin1)
+- Textbox commands (such as shake) do not work (Same, Latin1)
 
 ### Outils utilisés / Tools Used
 
