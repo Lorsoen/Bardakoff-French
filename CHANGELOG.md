@@ -1,0 +1,4 @@
+- Support pour "Exit to Whitch's Lair" / Add support for Exit to Whitch's Lair
+- Changements légers aux dialogues / Tweak some dialogs
+    - Timing de la scène de début de partie amélioré / Better File Start Cutscene timing
+    - Bottles : "Télé" => "Écran"

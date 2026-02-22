@@ -1,6 +1,6 @@
 [manifest]
 id = "bardakoff_banjo"
-version = "1.0.1"
+version = "1.0.2"
 display_name = "Bardakoff Banjo"
 description = "Ce mod implémente le français PAL dans l'édition Recomp du jeu.\n\nThis mod brings PAL french in the recomp."
 short_description = "Ce mod implémente le français PAL dans l'édition Recomp du jeu.\n\nThis mod brings PAL french in the recomp."
