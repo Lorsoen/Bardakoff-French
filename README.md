@@ -4,6 +4,7 @@ Ce mod implémente le français PAL dans l'édition Recomp du jeu.
 
 This mod brings PAL french in the recomp.
 
+<br/>
 
 ### Incompatibilitées / Conflicts
 
@@ -11,6 +12,7 @@ Ce mod ne fonctionnera probablement pas avec d'autres mods changeant les dialogu
 
 This mod will likely conflict with other language packs.
 
+<br/>
 
 ### Problèmes connus / Known Issues
 
@@ -18,6 +20,7 @@ This mod will likely conflict with other language packs.
 
 - Les effets de texte ne fonctionnent pas (pareil, Latin1) / Textbox commands (such as shake) do not work (Same, Latin1)
 
+<br/>
 
 ### Trucs utilisés / Things Used
 
@@ -27,19 +30,22 @@ This mod will likely conflict with other language packs.
 - [Font Plus Latin1](https://thunderstore.io/c/banjo-recompiled/p/Krisp0o/Font_Plus_Latin1/)
 - [Banjo Cuties](https://www.therwp.com/project/banjo-cutie)
 
+<br/>
 
 ### Remerciements / Special Thanks
 
 - [V10lator](https://github.com/V10lator/BK-german?tab=readme-ov-file) (Tooling, mod base)
 
+<br/>
 
 ### Legal
 
-PAL french by Julien Bardakoff / Nintendo of Europe. I do not own the original translation.
-© Nintendo of Europe SE
-© Nintendo Co. Ltd.
+PAL french by Julien Bardakoff / Nintendo of Europe. I do not own the original translation.<br/>
+© Nintendo of Europe SE<br/>
+© Nintendo Co. Ltd.<br/>
 © Microsoft Corp.
 
+<br/>
 
 ### Images
 ![1](https://github.com/user-attachments/assets/c5dd4907-a7ca-49d7-afb8-23994b9db915)
