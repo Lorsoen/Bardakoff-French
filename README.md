@@ -1,3 +1,10 @@
+Ce mod n'est plus maintenu. Utilisez Lighthouse, le portage PC de HarbourMasters qui implémente le support natif des langues.
+
+This Mod is now unmaintained. Use Lighthouse instead.
+<br/>
+<br/>
+
+
 ### Banjo-Kazooie: Bardakoff French
 
 Ce mod implémente le français PAL dans l'édition Recomp du jeu.
